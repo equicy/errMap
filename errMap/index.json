@@ -1,0 +1,14 @@
+{
+    "409" : {
+        "default": "默认错误",
+        "user not exist or password error" : "用户名或密码错误",
+        "old password error": "原密码输入错误，请重新输入",
+        "captcha verification failed": "验证未通过"
+    },
+    "402": {
+        "default": "默认错误"
+    },
+    "401": {
+        "default": "无效参数"
+    }
+}
